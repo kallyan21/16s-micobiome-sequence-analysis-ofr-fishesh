@@ -1,0 +1,12 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+DS10	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS10_S20_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS10_S20_L001_R2_001.fastq.gz
+DS13	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS13_S21_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS13_S21_L001_R2_001.fastq.gz
+DS14	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS14_S22_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS14_S22_L001_R2_001.fastq.gz
+DS2	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS2_S17_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS2_S17_L001_R2_001.fastq.gz
+DS4	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS4_S18_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS4_S18_L001_R2_001.fastq.gz
+DS7	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS7_S19_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/DS7_S19_L001_R2_001.fastq.gz
+GS10	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS10_S26_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS10_S26_L001_R2_001.fastq.gz
+GS13	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS13_S27_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS13_S27_L001_R2_001.fastq.gz
+GS14	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS14_S28_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS14_S28_L001_R2_001.fastq.gz
+GS2	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS2_S23_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS2_S23_L001_R2_001.fastq.gz
+GS7	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS7_S25_L001_R1_001.fastq.gz	/media/kallyan/UBUNTU 24_0/kallyan/analysis/Data/GS7_S25_L001_R2_001.fastq.gz
