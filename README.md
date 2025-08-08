@@ -2,6 +2,8 @@
 This project involves 16S rRNA amplicon-based microbiome profiling of fish samples using high-throughput sequencing data. 
 The goal is to characterize the gut and skin microbiota of fish under different environmental or treatment conditions.
 
+
+
 📂 Project Structure
 project/
 ├── raw_data/                  # Raw FASTQ files
